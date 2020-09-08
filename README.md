@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 I’m currently working on Machine learning & Deep learning projects.
+**🔭 I’m currently working on Machine learning & Deep learning projects.<br>
 **🌱 I’m currently learning Front-end Development and Deep Learning**
-<br>
-<br>
+<br><br>
+
 **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <code><a href="https://www.google_cloud.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://www.microsoft_azure.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
 <code><a href="https://www.heroku.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
-
 <br>
 <br>
 <br>
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
    <img align="left" alt="Gokul Pisharody | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:gokulpisharody430@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Gokul Pisharody | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
  
 <br>
