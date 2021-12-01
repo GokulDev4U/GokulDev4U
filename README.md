@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 I’m currently working on Machine learning & Deep learning projects.**<br>
+**🔭 I’m currently working as Machine learning & React Native.**<br>
 **🌱 I’m currently learning Power bi & Tableau**
 <br><br>
 
