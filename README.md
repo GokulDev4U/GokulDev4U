@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 I’m currently working as Machine learning & React Native.**<br>
-**🌱 I’m currently learning Power bi & Tableau**
+<!-- **🔭 I’m currently working as Machine learning & React Native.**<br>
+**🌱 I’m currently learning Power bi & Tableau** -->
 <br><br>
 
 **✨ Tech stacks currently using** <br>
